@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&gradientColor1=6799FF&gradientColor2=D9E5FF&height=200&section=header&text=heeji&textColor=FFFFFF)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HEE%JI)
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
