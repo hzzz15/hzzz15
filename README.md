@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HEE%JI)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=6799FF,D9E5FF&height=300&section=header&text=HEE%JI)
 
 <!--내용 부분-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236C9DF1&title_bg=%238E8B8B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236C9DF1&title_bg=%238E8B8B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
 
 <h3 align="center">🛠️ Tech Stack </h3>
 <div align="center">
