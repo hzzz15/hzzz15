@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&gradientColor1=6799FF&gradientColor2=D9E5FF&height=200&section=header&text=Hee%Ji)
+![header](https://capsule-render.vercel.app/api?type=Waving&gradientColor1=6799FF&gradientColor2=D9E5FF&height=200&section=header&text=heeji&textColor=FFFFFF)
 
 
 <div align="center">
