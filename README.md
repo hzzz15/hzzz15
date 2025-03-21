@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=6799FF,D9E5FF&height=300&section=header&text=HEE%JI)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=1E90FF,87CEFA&height=300&section=header&text=HEE%JI)
 
 <!--내용 부분-->
 <p align="center">
