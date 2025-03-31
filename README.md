@@ -11,12 +11,6 @@
 <br>
 <br>      
 <!--내용 부분-->
-<div align= "center"> 
-    <h2>💡 About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-	👋 Hi there! I'm Heeji</li><br>🚀 Always eager to build and explore new projects! 
-    </div> 
-</div>
     <div align= "center">
     <h2> 🛠️ Tech Stacks </h2> <br>
 <div align="center">
