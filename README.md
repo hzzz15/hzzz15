@@ -48,7 +48,9 @@
 <br>
 <br>
 <br>
-<div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzzz15&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+<div align= "center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzzz15&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+</div> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzzz15)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
